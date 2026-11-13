@@ -1,0 +1,22 @@
+---
+import SearchResults from '../components/search/SearchResults.vue';
+import Progress from '../components/Progress.astro';
+import Layout from '../layouts/Layout.astro';
+
+import { InitialProjects } from '../components/data/projects';
+---
+
+<Layout>
+  <div id="main-container" class="container">
+    <Progress />
+    <article id="projects" class="block">
+      <section class="block">
+        <h1>Projects</h1>
+        <p class="intro">
+          Find open-source projects that are actively looking for contributors and start making your first contribution today.
+        </p>
+        <SearchResults client:visible initialProjects={InitialProjects} />
+      </section>
+    </article>
+  </div>
+</Layout>

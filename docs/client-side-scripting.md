@@ -5,8 +5,8 @@ found and run in the app.
 
 Why do this?
 
-- GitHub Pages does not support JS bundles natively, and will block any
-  third-party plugin that support bundling
+- GitHub Pages does not natively support JS bundles and blocks
+  third-party plugins designed for bundling.
 - By using the source JS directly without bundling, local development and
   debugging of the live site is significantly easier, especially for new
   contributors who want to start hacking on things
@@ -35,7 +35,7 @@ the additional client-side resources:
 ```
 
 The `data-main` attribute tells RequireJS what script to run after it is
-initailized.
+initialized.
 
 ### Configure RequireJS
 
@@ -104,15 +104,12 @@ dependencies need to be explicitly defined like the snippet above.
 
 ## Testing Scripts
 
-Up-For-Grabs now supports using `jest` to run tests inside a NodeJS context.
+Up-For-Grabs now supports using `vitest` to run tests inside a NodeJS context.
 
-It uses `babel-jest` which automagically transforms AMD modules into CommonJS
-modules.
-
-You can run these tests at any time using `yarn test` to ensure the
+You can run these tests at any time using `npm test` to ensure the
 functionality covered by tests is not affected by your local changes.
 
-### Testing modules inside `jest`
+### Testing modules inside `vitest`
 
 Because NodeJS only supports CommonJS modules, there's one extra step of setup
 if you are writing modules that you would like tested.
@@ -124,4 +121,16 @@ Ensure your module defines this _before_ it uses a `define`:
 if (typeof define !== 'function') {
   var define = require('amdefine')(module);
 }
+```
+
+Also ensure your test prefix is aware of where to find the required modules:
+
+```js
+const requirejs = require('requirejs');
+const path = require('path');
+
+requirejs.config({
+  baseUrl: path.join(__dirname, '../../javascripts/'),
+  nodeRequire: require,
+});
 ```

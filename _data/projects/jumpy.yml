@@ -1,0 +1,20 @@
+---
+name: Jumpy
+desc: Tactical 2D shooter in fishy pixels style. Made with Rust-lang and Macroquad crabhot_pepper
+site: https://fishfolk.org/games/jumpy/
+tags:
+- bevy
+- editor
+- game
+- macroquad
+- modding
+- multiplayer
+- pixel-art
+- rust
+upforgrabs:
+  name: good first issue
+  link: https://github.com/fishfolk/jumpy/labels/good%20first%20issue
+stats:
+  issue-count: 8
+  last-updated: '2026-04-23T22:11:39Z'
+  fork-count: 140

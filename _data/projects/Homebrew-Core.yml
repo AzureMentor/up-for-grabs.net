@@ -1,7 +1,7 @@
 ---
 name: Homebrew-Core
 desc: Core formulae for the Homebrew package manager
-site: http://brew.sh/
+site: https://brew.sh/
 tags:
 - ruby
 - osx
@@ -12,5 +12,6 @@ upforgrabs:
   name: help wanted
   link: https://github.com/Homebrew/homebrew-core/labels/help%20wanted
 stats:
-  issue-count: 0
-  last-updated: '2019-09-30T14:01:22Z'
+  issue-count: 2
+  last-updated: '2026-11-13T08:24:05Z'
+  fork-count: 13957

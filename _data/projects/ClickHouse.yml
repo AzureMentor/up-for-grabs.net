@@ -1,0 +1,22 @@
+---
+name: ClickHouse
+desc: ClickHouse is a fast open-source OLAP database management system
+site: https://clickhouse.com
+tags:
+- sql
+- big-data
+- analytics
+- clickhouse
+- dbms
+- olap
+- distributed
+- database
+- mpp
+- c++
+upforgrabs:
+  name: easy task
+  link: https://github.com/ClickHouse/ClickHouse/labels/easy%20task
+stats:
+  issue-count: 63
+  last-updated: '2026-11-09T20:40:17Z'
+  fork-count: 9262

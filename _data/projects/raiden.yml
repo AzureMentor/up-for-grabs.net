@@ -9,8 +9,9 @@ tags:
 - microtransactions
 - state-channels
 upforgrabs:
-  name: good first issue
-  link: https://github.com/raiden-network/raiden/labels/good%20first%20issue
+  name: Tag / Good First Issue
+  link: https://github.com/raiden-network/raiden/labels/Tag%20%2F%20Good%20First%20Issue
 stats:
-  issue-count: 18
-  last-updated: '2019-09-27T20:11:07Z'
+  issue-count: 14
+  last-updated: '2022-04-07T11:53:17Z'
+  fork-count: 370

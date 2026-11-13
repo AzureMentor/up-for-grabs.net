@@ -12,5 +12,5 @@ upforgrabs:
   name: help wanted
   link: https://github.com/pnpm/pnpm/labels/help%20wanted
 stats:
-  issue-count: 23
-  last-updated: '2019-09-30T13:01:46Z'
+  issue-count: 0
+  fork-count: 1987

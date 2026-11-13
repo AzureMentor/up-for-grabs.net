@@ -1,0 +1,17 @@
+---
+name: JaRIKo
+desc: A JAva virtual machine Rpg Interpreter written in KOtlin
+site: https://github.com/smeup/jariko
+tags:
+- kotlin
+- rpg
+- as400
+- ibmi
+- antlr
+- interpreter
+upforgrabs:
+  name: up for grabs
+  link: https://github.com/smeup/jariko/labels/up%20for%20grabs
+stats:
+  issue-count: 0
+  fork-count: 17

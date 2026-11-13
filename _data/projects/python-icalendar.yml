@@ -1,0 +1,16 @@
+---
+name: icalendar
+desc: icalendar parser library for Python
+site: https://icalendar.readthedocs.io/en/latest/contribute/
+tags:
+- ics
+- ical
+- icalendar
+- rfc5545
+upforgrabs:
+  name: good first issue
+  link: https://github.com/PyCalendar/icalendar/labels/good%20first%20issue
+stats:
+  issue-count: 30
+  last-updated: '2026-11-13T04:19:04Z'
+  fork-count: 527

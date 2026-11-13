@@ -1,0 +1,15 @@
+---
+name: test.io
+desc: Socket.io online test tool
+site: https://github.com/yavrumian/test.io
+tags:
+- socket.io
+- test
+- node.js
+upforgrabs:
+  name: good first issue
+  link: https://github.com/yavrumian/test.io/labels/good%20first%20issue
+stats:
+  issue-count: 1
+  last-updated: '2025-10-10T07:26:49Z'
+  fork-count: 3

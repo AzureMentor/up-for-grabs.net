@@ -1,7 +1,7 @@
 ---
 name: Johnny-Five
 desc: JavaScript Robotics and IoT programming framework
-site: http://johnny-five.io
+site: https://johnny-five.io
 tags:
 - javascript
 - iot
@@ -18,5 +18,5 @@ upforgrabs:
   name: help-wanted
   link: https://github.com/rwaldron/johnny-five/labels/help-wanted
 stats:
-  issue-count: 2
-  last-updated: '2019-09-30T07:29:47Z'
+  issue-count: 0
+  fork-count: 1724

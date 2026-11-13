@@ -14,7 +14,8 @@ tags:
 - facebook
 upforgrabs:
   name: good first issue
-  link: https://github.com/facebook/docusaurus/labels/good%20first%20issue
+  link: https://github.com/meta/docusaurus/labels/good%20first%20issue
 stats:
-  issue-count: 15
-  last-updated: '2019-09-30T13:50:05Z'
+  issue-count: 1
+  last-updated: '2026-09-21T11:46:58Z'
+  fork-count: 10132

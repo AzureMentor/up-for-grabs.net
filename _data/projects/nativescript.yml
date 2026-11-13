@@ -8,4 +8,8 @@ tags:
 - native
 upforgrabs:
   name: help wanted
-  link: https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22+user%3ANativeScript
+  link: https://github.com/NativeScript/NativeScript/labels/help%20wanted
+stats:
+  issue-count: 17
+  last-updated: '2026-10-23T20:59:22Z'
+  fork-count: 1745

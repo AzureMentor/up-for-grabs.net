@@ -11,5 +11,6 @@ upforgrabs:
   name: up for grabs
   link: https://github.com/akkadotnet/akka.net/labels/up%20for%20grabs
 stats:
-  issue-count: 59
-  last-updated: '2019-09-29T17:15:16Z'
+  issue-count: 34
+  last-updated: '2026-11-05T04:04:03Z'
+  fork-count: 1056

@@ -1,7 +1,7 @@
 ---
 name: momentjs.com
 desc: Web site and documentation content for moment.js
-site: http://momentjs.com
+site: https://momentjs.com
 tags:
 - javascript
 - date
@@ -12,5 +12,5 @@ upforgrabs:
   name: Up-For-Grabs
   link: https://github.com/moment/momentjs.com/labels/Up-For-Grabs
 stats:
-  issue-count: 4
-  last-updated: '2019-09-24T05:59:19Z'
+  issue-count: 0
+  fork-count: 800

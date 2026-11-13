@@ -3,7 +3,7 @@ name: OpenRA
 desc: >-
   A modern Open Source cross-platform reimplementation of the Command & Conquer Red Alert engine written
   in C# using OpenGL.
-site: http://www.openra.net
+site: https://www.openra.net
 tags:
 - ".net"
 - mono
@@ -16,8 +16,8 @@ tags:
 - rts
 - a-star
 upforgrabs:
-  name: Easy
-  link: https://github.com/OpenRA/OpenRA/labels/Easy
+  name: 'PR: Help wanted'
+  link: https://github.com/OpenRA/OpenRA/labels/PR%3A%20Help%20wanted
 stats:
-  issue-count: 31
-  last-updated: '2019-09-30T08:00:33Z'
+  issue-count: 0
+  fork-count: 3114

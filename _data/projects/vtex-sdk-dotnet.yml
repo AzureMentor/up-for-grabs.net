@@ -1,0 +1,17 @@
+---
+name: VTEX SDK .NET
+desc: VTEX (e-commerce PaaS) SDK for .NET projects
+site: https://github.com/guibranco/vtex-sdk-dotnet
+tags:
+- ".net"
+- c#
+- sdk
+- vtex
+- integration
+upforgrabs:
+  name: help wanted
+  link: https://github.com/guibranco/VTEX-SDK-dotnet/labels/help%20wanted
+stats:
+  issue-count: 3
+  last-updated: '2026-11-10T12:53:17Z'
+  fork-count: 8

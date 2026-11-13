@@ -2,7 +2,7 @@
 name: Shogun Machine Learning Toolbox
 desc: "Shogun is a unified and efficient machine learning library. \nWe support multiple languages and
   platforms, have an efficient core in C++ and a great community.\n"
-site: http://shogun.ml/
+site: https://github.com/shogun-toolbox/shogun
 tags:
 - machine-learning
 - ml
@@ -15,5 +15,6 @@ upforgrabs:
   name: good first issue
   link: https://github.com/shogun-toolbox/shogun/labels/good%20first%20issue
 stats:
-  issue-count: 224
-  last-updated: '2019-09-28T00:14:46Z'
+  issue-count: 236
+  last-updated: '2026-07-13T11:31:33Z'
+  fork-count: 1033

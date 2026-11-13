@@ -5,12 +5,13 @@ requirejs.config({
   paths: {
     // external scripts hosted on CDN
     underscore:
-      '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min',
-    jquery: '//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min',
+      '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.13.2/underscore-min',
+    jquery: '//cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min',
     sammy: '//cdnjs.cloudflare.com/ajax/libs/sammy.js/0.7.6/sammy.min',
     chosen: '//cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.jquery.min',
+    showdown: '//cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min',
     'promise-polyfill':
-      '//cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.min',
+      '//cdn.jsdelivr.net/npm/promise-polyfill@8.1.3/dist/polyfill.min',
     'whatwg-fetch': '//cdn.jsdelivr.net/npm/whatwg-fetch@3.0.0/dist/fetch.umd',
   },
   shim: {

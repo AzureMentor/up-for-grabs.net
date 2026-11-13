@@ -1,0 +1,12 @@
+name: ZenML
+desc: Build portable, production-ready MLOps pipelines.
+site: https://github.com/zenml-io/zenml
+tags:
+  - mlops
+  - machinelearning
+  - ai
+  - devops
+  - python
+upforgrabs:
+  name: good first issue
+  link: https://github.com/zenml-io/zenml/labels/good%20first%20issue

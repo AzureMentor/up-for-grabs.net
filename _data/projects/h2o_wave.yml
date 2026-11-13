@@ -1,0 +1,16 @@
+---
+name: H2O Wave
+desc: A Realtime Web Apps and Dashboards framework for Python and R. Suitable (not only) for AI audience.
+site: https://github.com/h2oai/wave
+tags:
+- python
+- typescript
+- reactjs
+- low-code
+upforgrabs:
+  name: good first issue
+  link: https://github.com/h2oai/wave/labels/good%20first%20issue
+stats:
+  issue-count: 7
+  last-updated: '2026-05-27T18:38:33Z'
+  fork-count: 374

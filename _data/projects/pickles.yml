@@ -3,7 +3,7 @@ name: Pickles
 desc: >-
   The open source Living Documentation generator turns your feature files into a web site so that non-technical
   people can easily read the scenarios.
-site: http://www.picklesdoc.com/
+site: https://www.picklesdoc.com/
 tags:
 - c#
 - ".net"
@@ -15,4 +15,4 @@ upforgrabs:
   link: https://github.com/picklesdoc/pickles/labels/up-for-grabs
 stats:
   issue-count: 0
-  last-updated: '2019-09-27T05:08:20Z'
+  fork-count: 159

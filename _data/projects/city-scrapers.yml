@@ -1,7 +1,7 @@
 ---
 name: City Scrapers
 desc: Scrape public meetings to increase access and transparency around local government.
-site: https://cityscrapers.org/
+site: https://city-scrapers.org/
 tags:
 - python
 - web-scraping
@@ -12,5 +12,6 @@ upforgrabs:
   name: good first issue
   link: https://github.com/City-Bureau/city-scrapers/labels/good%20first%20issue
 stats:
-  issue-count: 35
-  last-updated: '2019-09-27T13:16:43Z'
+  issue-count: 16
+  last-updated: '2025-09-02T14:29:22Z'
+  fork-count: 324

@@ -1,7 +1,7 @@
 ---
 name: Sharer.js
 desc: Create your own social share buttons. No JQuery
-site: http://ellisonleao.github.io/sharer.js
+site: https://ellisonleao.github.io/sharer.js
 tags:
 - javascript
 - date
@@ -38,5 +38,5 @@ upforgrabs:
   name: up-for-grabs
   link: https://github.com/ellisonleao/sharer.js/labels/up-for-grabs
 stats:
-  issue-count: 1
-  last-updated: '2019-09-28T09:09:53Z'
+  issue-count: 0
+  fork-count: 202

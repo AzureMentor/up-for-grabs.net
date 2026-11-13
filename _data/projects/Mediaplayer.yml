@@ -1,6 +1,6 @@
 ---
 name: Media Player
-desc: Media Player designed to lighweight and work on the go.
+desc: Media Player designed to lightweight and work on the go.
 site: https://github.com/Griffintaur/MediaPlayer
 tags:
 - c#
@@ -11,4 +11,5 @@ upforgrabs:
   link: https://github.com/Griffintaur/MediaPlayer/labels/up-for-grabs
 stats:
   issue-count: 2
-  last-updated: '2019-09-14T16:48:39Z'
+  last-updated: '2019-04-29T05:37:27Z'
+  fork-count: 18

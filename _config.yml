@@ -1,19 +1,41 @@
 title: up-for-grabs.net
 
 exclude:
-  - CNAME
-  - Gemfile*
-  - tests
-  - README.md
-  - scripts
-  - .travis.yml
-  - vendor
+  - .github
+  - assets
+  - docs
+  - licenses
   - node_modules
-  - package.json
-  - yarn.lock
+  - scripts
+  - tests
+  - .editorconfig
   - .eslintrc.json
   - .prettierrc.json
-  - docs
+  - .rubocop.yml
+  - .ruby-version
+  - astro.config.mjs
+  - CNAME
+  - Dockerfile
+  - coverage
+  - dist
+  - eslint.config.mjs
+  - eslint-new.config.mjs
+  - docker-compose.yml
+  - Gemfile*
+  - vitest.config.ts
+  - LICENSE
+  - package.json
+  - package-lock.json
+  - README.md
+  - src
+  - tsconfig.json
+  - vendor
 
 github: [metadata]
 
+# DO NOT DELETE THIS
+# This is used to build up the array of projects rendered inside a <noscript>
+# tag to support browsers which disable JS. For more context check out
+# https://github.com/up-for-grabs/up-for-grabs.net/pull/1412 which explains what
+# this gives us.
+emptyArray: []

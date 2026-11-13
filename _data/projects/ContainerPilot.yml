@@ -11,7 +11,8 @@ tags:
 - orchestration
 upforgrabs:
   name: help wanted
-  link: https://github.com/joyent/containerpilot/labels/help%20wanted
+  link: https://github.com/TritonDataCenter/containerpilot/labels/help%20wanted
 stats:
   issue-count: 5
-  last-updated: '2019-09-29T13:33:35Z'
+  last-updated: '2022-09-08T05:38:16Z'
+  fork-count: 135

@@ -11,10 +11,11 @@ tags:
 - android
 - plugins
 - minecraft
-- paspberry-pi
+- raspberry-pi
 upforgrabs:
   name: effort/easy
   link: https://github.com/cuberite/cuberite/labels/effort%2Feasy
 stats:
-  issue-count: 14
-  last-updated: '2019-09-29T12:59:27Z'
+  issue-count: 8
+  last-updated: '2025-08-05T00:20:30Z'
+  fork-count: 662

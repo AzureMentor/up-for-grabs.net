@@ -3,7 +3,7 @@ name: esfiddle
 desc: >-
   Try out the newest ES6+ features in your browser. We are creating a brand new React Frontend and Typescipt
   API - we'd love to have your help!
-site: https://esfiddle.net/
+site: https://github.com/esfiddle/esfiddle
 tags:
 - oss
 - web
@@ -15,5 +15,5 @@ upforgrabs:
   name: up-for-grabs
   link: https://github.com/esfiddle/api/labels/up-for-grabs
 stats:
-  issue-count: 12
-  last-updated: '2019-08-26T11:30:03Z'
+  issue-count: 0
+  fork-count: 5

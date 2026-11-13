@@ -17,5 +17,6 @@ upforgrabs:
   name: Up for grabs
   link: https://github.com/libgit2/libgit2sharp/labels/Up%20for%20grabs
 stats:
-  issue-count: 35
-  last-updated: '2019-09-28T18:30:18Z'
+  issue-count: 34
+  last-updated: '2024-05-08T16:13:54Z'
+  fork-count: 922

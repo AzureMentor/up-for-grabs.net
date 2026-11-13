@@ -1,7 +1,7 @@
 ---
 name: Human Connection
 desc: The free and open source social network for active citizenship.
-site: https://human-connection.org/en/in-nerds-we-trust/
+site: https://github.com/Human-Connection/Human-Connection
 tags:
 - javascript
 - vuejs
@@ -16,5 +16,6 @@ upforgrabs:
   name: good first issue
   link: https://github.com/Human-Connection/Human-Connection/labels/good%20first%20issue
 stats:
-  issue-count: 10
-  last-updated: '2019-09-30T09:47:21Z'
+  issue-count: 29
+  last-updated: '2026-08-10T19:58:08Z'
+  fork-count: 102

@@ -7,8 +7,9 @@ tags:
 - api
 - octokit
 upforgrabs:
-  name: up-for-grabs
-  link: https://github.com/octokit/octokit.net/labels/up-for-grabs
+  name: 'Status: Up for grabs'
+  link: https://github.com/octokit/octokit.net/labels/Status%3A%20Up%20for%20grabs
 stats:
-  issue-count: 23
-  last-updated: '2019-09-25T07:29:48Z'
+  issue-count: 3
+  last-updated: '2026-07-17T02:17:18Z'
+  fork-count: 1084

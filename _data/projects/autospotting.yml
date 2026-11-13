@@ -16,7 +16,8 @@ tags:
 - cloudformation
 upforgrabs:
   name: 'Type: Good first issue'
-  link: https://github.com/AutoSpotting/AutoSpotting/labels/Type%3A%20Good%20first%20issue
+  link: https://github.com/LeanerCloud/AutoSpotting/labels/Type%3A%20Good%20first%20issue
 stats:
-  issue-count: 4
-  last-updated: '2019-09-27T09:23:48Z'
+  issue-count: 2
+  last-updated: '2023-09-21T04:41:06Z'
+  fork-count: 310

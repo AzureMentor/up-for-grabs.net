@@ -1,89 +1,86 @@
-up-for-grabs.net
+[up-for-grabs.net](https://up-for-grabs.net/)
+![Continuous Integration status](https://github.com/up-for-grabs/up-for-grabs.net/workflows/Continuous%20Integration/badge.svg)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0ee7bf9f-1aed-465b-8e9e-01de009a8a7e/deploy-status)](https://app.netlify.com/sites/up-for-grabs-test-bench/deploys)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors)
 ================
 
-Do you run or participate in an open-source project? Submit a Pull Request to add it to the list!
+<a href="https://up-for-grabs.net/"><img width="814" src="https://user-images.githubusercontent.com/359239/67390578-50f83a00-f573-11e9-835d-02eb9e019afb.png"></a>
 
-Visit the website: [up-for-grabs.net](https://up-for-grabs.net/)
+This repository contains the source content for the [Up-For-Grabs website](https://up-for-grabs.net/), a list of projects with curated tasks for new contributors.
 
-## Add a Project
+## List your project
 
-- Each of the projects is a file in the [projects](https://github.com/up-for-grabs/up-for-grabs.net/blob/gh-pages/_data/projects/) folder.
-- To add a new one, create a new file named after the project, ending in `.yml`. 
-- Ensure all spaces and special characters are replaced with `-`, to make everyone's life easier. 
-- [This guide](https://help.github.com/articles/creating-new-files/) shows you how to create the file directly in the browser, without cloning the repository in the command line.
+If you know about or maintain project that should be listed on Up for Grabs,
+[follow the instructions to open a pull request](docs/list-a-project.md).
 
-The contents of the file are just some details about the project:
+## Contributing
 
-```yaml
-name: *project name*
-desc: *a brief description of the project*
-site: *home page or repository URL*
-tags:
-# Note: these are tags categorizing the project, not issue labels.
-- *tags*
-- *to*
-- *search*
-- *on*
-upforgrabs:
-  name: *the label associated with the up-for-grabs tasks -- e.g. "help needed" (without the quotes)*
-  link: *URL where users can view the tasks -- e.g. https://github.com/username/project/labels/up%20for%20grabs*
-```
+If you would like to get involved with the project, please read the
+[CONTRIBUTING.md](.github/CONTRIBUTING.md) file as it contains:
 
-Check out the [up-for-grabs](https://github.com/up-for-grabs/up-for-grabs.net/blob/gh-pages/_data/projects/up-for-grabs.net.yml) file for an example of this project structure.
+- Instructions about getting your environment setup
+- Guidance for testing locally
+- Commands to run to verify changes
 
-### Pull Request Reviews
+## How does the site work?
 
-We aim to be responsive when a pull request is open, but if a pull request remains idle for 2 weeks with feedback that prevents us from merging it we will close the pull request. You are welcome to resubmit the project and address the feedback provided.
+If you want to learn more about the various parts of the Up-for-Grabs project,
+the [How it works](docs/how-it-works.md) document is a good overview.
 
-## Use the Yeoman Generator
+## Contributors ✨
 
-If you'd like to use a generator to create the project's file, you can certainly do so!
+Thanks to these wonderful people who have improved the code and documentation to help this project grow. ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-Install the generator, then run it and walk through the steps.
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/filipe-gomes"><img src="https://avatars1.githubusercontent.com/u/42053052?v=4?s=100" width="100px;" alt="Filipe Magalhaes Gomes"/><br /><sub><b>Filipe Magalhaes Gomes</b></sub></a><br /><a href="#content-filipe-gomes" title="Content">🖋</a></td>
+      <td align="center"><a href="https://mkkhedawat.github.io/"><img src="https://avatars2.githubusercontent.com/u/5137374?v=4?s=100" width="100px;" alt="Manish Kumar Khedawat"/><br /><sub><b>Manish Kumar Khedawat</b></sub></a><br /><a href="https://github.com/up-for-grabs/up-for-grabs.net/commits?author=mkkhedawat" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/SpaceEEC"><img src="https://avatars1.githubusercontent.com/u/24881032?v=4?s=100" width="100px;" alt="SpaceEEC"/><br /><sub><b>SpaceEEC</b></sub></a><br /><a href="https://github.com/up-for-grabs/up-for-grabs.net/commits?author=SpaceEEC" title="Code">💻</a></td>
+      <td align="center"><a href="http://www.joaomanoel.com.br"><img src="https://avatars0.githubusercontent.com/u/6238111?v=4?s=100" width="100px;" alt="João Manoel Lins"/><br /><sub><b>João Manoel Lins</b></sub></a><br /><a href="#content-JoaoManoel" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/crystal-dawn"><img src="https://avatars3.githubusercontent.com/u/38540136?v=4?s=100" width="100px;" alt="Crystal Yungwirth"/><br /><sub><b>Crystal Yungwirth</b></sub></a><br /><a href="#content-crystal-dawn" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/TeslaAdis"><img src="https://avatars1.githubusercontent.com/u/20220542?v=4?s=100" width="100px;" alt="Adis Talic"/><br /><sub><b>Adis Talic</b></sub></a><br /><a href="https://github.com/up-for-grabs/up-for-grabs.net/commits?author=TeslaAdis" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/AstroBoogie"><img src="https://avatars2.githubusercontent.com/u/18710598?v=4?s=100" width="100px;" alt="Nathaniel Adams"/><br /><sub><b>Nathaniel Adams</b></sub></a><br /><a href="https://github.com/up-for-grabs/up-for-grabs.net/commits?author=AstroBoogie" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="http://ishan.co"><img src="https://avatars0.githubusercontent.com/u/1873271?v=4?s=100" width="100px;" alt="Ishan Sharma"/><br /><sub><b>Ishan Sharma</b></sub></a><br /><a href="https://github.com/up-for-grabs/up-for-grabs.net/commits?author=ishansharma" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/firfircelik"><img src="https://avatars0.githubusercontent.com/u/34511698?v=4?s=100" width="100px;" alt="Firat Celik"/><br /><sub><b>Firat Celik</b></sub></a><br /><a href="https://github.com/up-for-grabs/up-for-grabs.net/commits?author=firfircelik" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/phncosta"><img src="https://avatars0.githubusercontent.com/u/47827714?v=4?s=100" width="100px;" alt="Paulo H. Costa"/><br /><sub><b>Paulo H. Costa</b></sub></a><br /><a href="https://github.com/up-for-grabs/up-for-grabs.net/commits?author=phncosta" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/XxZhang2017"><img src="https://avatars2.githubusercontent.com/u/26696836?v=4?s=100" width="100px;" alt="XxZhang2017"/><br /><sub><b>XxZhang2017</b></sub></a><br /><a href="#content-XxZhang2017" title="Content">🖋</a> <a href="https://github.com/up-for-grabs/up-for-grabs.net/commits?author=XxZhang2017" title="Code">💻</a></td>
+      <td align="center"><a href="https://chadwhitacre.com/"><img src="https://avatars2.githubusercontent.com/u/134455?v=4?s=100" width="100px;" alt="Chad Whitacre"/><br /><sub><b>Chad Whitacre</b></sub></a><br /><a href="https://github.com/up-for-grabs/up-for-grabs.net/commits?author=chadwhitacre" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/Jai2305"><img src="https://avatars.githubusercontent.com/u/47395196?v=4?s=100" width="100px;" alt="Jai "/><br /><sub><b>Jai </b></sub></a><br /><a href="https://github.com/up-for-grabs/up-for-grabs.net/commits?author=Jai2305" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/jalaniz1"><img src="https://avatars.githubusercontent.com/u/1664815?v=4?s=100" width="100px;" alt="James Alaniz"/><br /><sub><b>James Alaniz</b></sub></a><br /><a href="https://github.com/up-for-grabs/up-for-grabs.net/commits?author=jalaniz1" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/gewarren"><img src="https://avatars.githubusercontent.com/u/24882762?v=4?s=100" width="100px;" alt="Genevieve Warren"/><br /><sub><b>Genevieve Warren</b></sub></a><br /><a href="https://github.com/up-for-grabs/up-for-grabs.net/commits?author=gewarren" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/SaadAnsari17"><img src="https://avatars.githubusercontent.com/u/94478736?v=4?s=100" width="100px;" alt="Saad"/><br /><sub><b>Saad</b></sub></a><br /><a href="https://github.com/up-for-grabs/up-for-grabs.net/commits?author=SaadAnsari17" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/JeetPatel1016"><img src="https://avatars.githubusercontent.com/u/60153965?v=4?s=100" width="100px;" alt="Jeet Patel"/><br /><sub><b>Jeet Patel</b></sub></a><br /><a href="https://github.com/up-for-grabs/up-for-grabs.net/commits?author=JeetPatel1016" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    
+  </tfoot>
+</table>
 
-```
-npm install -g generator-up-for-grabs
-yo up-for-grabs
-```
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
-## Testing the Site Locally
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
-If you haven't already, clone the repository to your machine:
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
 
-```
-git clone https://github.com/up-for-grabs/up-for-grabs.net.git
-```
+## 🧞 New beta site
 
-If you have a fork of the repository, change `up-for-grabs` into your GitHub account named above.
+To work with the new beta site, you need to have a recent version of Node.js installed. Then you can run these command to interact with the new site:
 
-You need Ruby and Bundler installed to test the site - you can confirm these are present by running these commands:
-
-```
-ruby -v
-bundle -v
-```
-
-If you're happy with that, run these commands in the directory where you cloned the up-for-grabs repository:
-
-```
-bundle install
-jekyll serve --watch
-```
-
-Alternatively, the application can be run in a [Docker](https://docker.com) container:
-
-```
-docker-compose up
-```
-
-Then open your browser to `localhost:4000` to view the site.
-
-## How This All Works
-We use a few great features of Jekyll and GitHub Pages to host this entire site for free.
-
-* We are using a file called `scripts.html` which is an include file. When we publish the site, Jekyll uses this to concatenate and generate the scripts that will actually be downloaded when a user visits the site.
-* Within the `scripts.html` template, we're referencing `site.data.projects`, which gives us access to the entire directory of `.yml` files as a set of variables. We combine this with the `jsonify` liquid transformer to turn them into a JSON object. This means that the raw data is generated once, so it downloads very quickly as static data.
-* When the web page is opened, our startup JS processes each project in the array of projects and pushes it into the array that the rest of the site uses.
-* We use [travis-ci](https://travis-ci.org/up-for-grabs/up-for-grabs.net) to run a custom ruby script, `cibuild`, that checks all the `.yml` files to make sure they can be appropriately parsed. This makes sure we don't merge any incorrectly formed project files.
-
-What this means is that, when a pull request is merged, GitHub Pages automatically builds the site via Jekyll and publishes it to our GitHub -- no database or hosting needed. (Thanks, GitHub!)
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| `npm install`             | Installs dependencies                            |
+| `npm run dev`             | Starts local dev server at `localhost:4321`      |
+| `npm run build`           | Build your production site to `./_site/beta/`    |
+| `npm run preview`         | Preview your build locally, before deploying     |
+| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro -- --help` | Get help using the Astro CLI                     |

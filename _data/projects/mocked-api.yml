@@ -1,0 +1,15 @@
+---
+name: Mocked-API
+desc: A set of FREE Api's that allow you to fill your application with mocked data
+site: https://github.com/ageddesi/Mocked-API
+tags:
+- typescript
+- api
+- javascript
+upforgrabs:
+  name: hacktoberfest
+  link: https://github.com/ageddesi/Mocked-API/labels/hacktoberfest
+stats:
+  issue-count: 4
+  last-updated: '2026-08-03T01:17:05Z'
+  fork-count: 82

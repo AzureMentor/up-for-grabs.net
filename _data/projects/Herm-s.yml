@@ -14,7 +14,8 @@ tags:
 - unix
 upforgrabs:
   name: up-for-grabs
-  link: https://github.com/JackMiranda/herms/labels/up-for-grabs
+  link: https://github.com/LuxMiranda/herms/labels/up-for-grabs
 stats:
-  issue-count: 5
-  last-updated: '2019-09-29T21:38:14Z'
+  issue-count: 4
+  last-updated: '2020-10-02T23:29:40Z'
+  fork-count: 42

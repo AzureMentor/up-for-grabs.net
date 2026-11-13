@@ -9,7 +9,8 @@ tags:
 - angular
 upforgrabs:
   name: help wanted
-  link: https://github.com/tidusjar/Ombi/labels/help%20wanted
+  link: https://github.com/Ombi-app/Ombi/labels/help%20wanted
 stats:
-  issue-count: 3
-  last-updated: '2019-09-30T11:51:37Z'
+  issue-count: 2
+  last-updated: '2026-03-23T00:07:26Z'
+  fork-count: 423

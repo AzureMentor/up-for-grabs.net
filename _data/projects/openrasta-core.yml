@@ -12,5 +12,6 @@ upforgrabs:
   name: good first issue
   link: https://github.com/openrasta/openrasta-core/labels/good%20first%20issue
 stats:
-  issue-count: 3
-  last-updated: '2019-09-30T11:37:11Z'
+  issue-count: 2
+  last-updated: '2020-11-01T09:17:52Z'
+  fork-count: 67

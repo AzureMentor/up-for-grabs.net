@@ -1,0 +1,17 @@
+---
+name: Sentry .NET SDK
+desc: >-
+  Client libraries for Sentry, an error reporting and performance monitoring platform, for usage from
+  .NET and popular application frameworks
+site: https://docs.sentry.io/platforms/dotnet/
+tags:
+- crash-reporting
+- error-logging
+- performance-monitoring
+upforgrabs:
+  name: Good First Issue
+  link: https://github.com/getsentry/sentry-dotnet/labels/Good%20First%20Issue
+stats:
+  issue-count: 12
+  last-updated: '2026-10-28T03:14:47Z'
+  fork-count: 258

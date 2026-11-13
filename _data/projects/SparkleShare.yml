@@ -32,5 +32,6 @@ upforgrabs:
   name: up-for-grabs
   link: https://github.com/hbons/SparkleShare/labels/up-for-grabs
 stats:
-  issue-count: 12
-  last-updated: '2019-09-30T08:41:59Z'
+  issue-count: 6
+  last-updated: '2019-08-22T15:16:19Z'
+  fork-count: 570

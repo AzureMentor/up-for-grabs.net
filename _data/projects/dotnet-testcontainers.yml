@@ -15,7 +15,7 @@ tags:
 - integration-tests
 upforgrabs:
   name: good first issue
-  link: https://github.com/HofmeisterAn/dotnet-testcontainers/labels/good%20first%20issue
+  link: https://github.com/testcontainers/testcontainers-dotnet/labels/good%20first%20issue
 stats:
-  issue-count: 2
-  last-updated: '2019-09-18T18:27:23Z'
+  issue-count: 0
+  fork-count: 366

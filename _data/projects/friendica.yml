@@ -3,7 +3,7 @@ name: Friendica
 desc: >-
   Friendica is a communications platform for integrated social communications utilising decentralised
   communications and linkage to several indie social projects - as well as popular mainstream providers.
-site: http://friendi.ca
+site: https://friendi.ca
 tags:
 - oss
 - web
@@ -15,4 +15,5 @@ upforgrabs:
   link: https://github.com/friendica/friendica/labels/Junior%20Jobs
 stats:
   issue-count: 35
-  last-updated: '2019-09-30T13:18:48Z'
+  last-updated: '2025-09-10T19:54:25Z'
+  fork-count: 386

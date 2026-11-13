@@ -1,7 +1,7 @@
 ---
 name: Hilary
 desc: Open Academic Environment project back-end
-site: http://oaeproject.org/
+site: https://oaeproject.org/
 tags:
 - javascript
 - node.js
@@ -11,5 +11,6 @@ upforgrabs:
   name: up-for-grabs
   link: https://github.com/oaeproject/Hilary/labels/up-for-grabs
 stats:
-  issue-count: 12
-  last-updated: '2019-09-24T06:35:30Z'
+  issue-count: 9
+  last-updated: '2021-02-25T19:19:57Z'
+  fork-count: 94

@@ -1,0 +1,13 @@
+_data/projects/
+.all-contributorsrc
+.devcontainer.json
+docker-compose.yml
+_includes/
+_layouts
+.github/
+.vscode/
+index.html
+javascripts/lib/require.js
+javascripts/projects.json
+stylesheets/
+tsconfig.json

@@ -9,8 +9,9 @@ tags:
 - rollercoasters
 - 2d
 upforgrabs:
-  name: good first issue
-  link: https://github.com/OpenRCT2/OpenRCT2/labels/good%20first%20issue
+  name: help wanted
+  link: https://github.com/OpenRCT2/OpenRCT2/labels/help%20wanted
 stats:
-  issue-count: 17
-  last-updated: '2019-09-30T08:35:38Z'
+  issue-count: 4
+  last-updated: '2022-12-08T21:13:03Z'
+  fork-count: 1965

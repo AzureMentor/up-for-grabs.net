@@ -3,7 +3,7 @@ name: gun extensions
 desc: >-
   GUN is an extensible, realtime, decentralized, offline-first, graph database engine.  These tasks are
   for extensions.  Core code is available at https://github.com/amark/gun.
-site: http://gun.js.org/
+site: https://gun.js.org/
 tags:
 - javascript
 - database
@@ -15,4 +15,5 @@ upforgrabs:
   link: https://github.com/gundb/feature-requests/labels/up-for-grabs
 stats:
   issue-count: 10
-  last-updated: '2018-04-22T10:29:41Z'
+  last-updated: '2019-03-27T00:50:55Z'
+  fork-count: 0

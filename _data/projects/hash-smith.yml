@@ -1,0 +1,13 @@
+---
+name: HashSmith
+desc: Fast & memory efficient hash tables for Java
+site: https://github.com/bluuewhale/hash-smith
+tags:
+- java
+- data-structures
+upforgrabs:
+  name: good first issue
+  link: https://github.com/bluuewhale/hash-smith/labels/good%20first%20issue
+stats:
+  issue-count: 0
+  fork-count: 10

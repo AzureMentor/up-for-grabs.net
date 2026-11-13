@@ -1,0 +1,21 @@
+---
+name: Almond
+desc: The Open Source, Privacy Preserving Virtual Assistant
+site: https://github.com/stanford-oval/genie-toolkit
+tags:
+- virtual-assistant
+- voice
+- nlp
+- natural-language
+- machine-learning
+- research
+- javascript
+- web
+- node.js
+upforgrabs:
+  name: good first issue
+  link: https://github.com/stanford-oval/genie-toolkit/labels/good%20first%20issue
+stats:
+  issue-count: 5
+  last-updated: '2021-08-10T02:35:28Z'
+  fork-count: 35

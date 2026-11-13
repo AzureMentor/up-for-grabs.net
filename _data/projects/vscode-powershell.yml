@@ -6,8 +6,9 @@ tags:
 - powershell
 - typescript
 upforgrabs:
-  name: Up-for-Grabs
-  link: https://github.com/PowerShell/vscode-powershell/labels/Up-for-Grabs
+  name: Up for Grabs
+  link: https://github.com/PowerShell/vscode-powershell/labels/Up%20for%20Grabs
 stats:
-  issue-count: 32
-  last-updated: '2019-09-26T08:12:16Z'
+  issue-count: 61
+  last-updated: '2026-11-06T12:10:53Z'
+  fork-count: 550

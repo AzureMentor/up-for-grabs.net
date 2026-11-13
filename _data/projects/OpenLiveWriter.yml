@@ -1,7 +1,7 @@
 ---
 name: Open Live Writer
 desc: Open Live Writer makes it easy to write, preview, and post to your blog.
-site: http://openlivewriter.org/
+site: https://github.com/OpenLiveWriter/OpenLiveWriter
 tags:
 - c#
 - winforms
@@ -10,5 +10,5 @@ upforgrabs:
   name: help wanted
   link: https://github.com/OpenLiveWriter/OpenLiveWriter/labels/help%20wanted
 stats:
-  issue-count: 45
-  last-updated: '2019-09-27T11:27:55Z'
+  issue-count: 0
+  fork-count: 490

@@ -1,0 +1,21 @@
+---
+name: mycovidconnect
+desc: Skip the Queue. Check-in to hospital faster! Automated 911 for Non-ER Patients.
+site: https://github.com/Xcov19/mycovidconnect
+tags:
+- xcov19
+- pre-triage
+- reactjs
+- javascript
+- typescript
+- healthtech
+- oss
+- mycovidconnect
+- myhealthconnect
+upforgrabs:
+  name: up-for-grabs
+  link: https://github.com/Xcov19/mycovidconnect/labels/up-for-grabs
+stats:
+  issue-count: 18
+  last-updated: '2026-07-16T19:59:34Z'
+  fork-count: 56

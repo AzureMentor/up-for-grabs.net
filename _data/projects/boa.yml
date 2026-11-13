@@ -1,7 +1,7 @@
 ---
 name: Boa
 desc: Javascript Engine written in Rust
-site: https://github.com/jasonwilliams/boa
+site: https://github.com/boa-dev/boa
 tags:
 - rust
 - oss
@@ -11,7 +11,8 @@ tags:
 - interpreter
 upforgrabs:
   name: good first issue
-  link: https://github.com/jasonwilliams/boa/labels/good%20first%20issue
+  link: https://github.com/boa-dev/boa/labels/good%20first%20issue
 stats:
-  issue-count: 11
-  last-updated: '2019-09-29T04:55:15Z'
+  issue-count: 8
+  last-updated: '2026-03-12T17:27:46Z'
+  fork-count: 598

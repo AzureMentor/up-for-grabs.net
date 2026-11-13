@@ -12,7 +12,8 @@ tags:
 - phpdoc
 upforgrabs:
   name: Up-for-grabs
-  link: https://github.com/phpDocumentor/phpDocumentor2/labels/Up-for-grabs
+  link: https://github.com/phpDocumentor/phpDocumentor/labels/Up-for-grabs
 stats:
-  issue-count: 11
-  last-updated: '2019-09-28T18:50:38Z'
+  issue-count: 9
+  last-updated: '2026-04-15T20:27:37Z'
+  fork-count: 646

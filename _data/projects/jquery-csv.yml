@@ -9,7 +9,7 @@ tags:
 - parsing
 upforgrabs:
   name: help wanted
-  link: https://github.com/typeiii/jquery-csv/labels/help%20wanted
+  link: https://github.com/evanplaice/jquery-csv/labels/help%20wanted
 stats:
   issue-count: 0
-  last-updated: '2019-09-30T10:24:25Z'
+  fork-count: 419

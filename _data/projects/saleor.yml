@@ -15,8 +15,9 @@ tags:
 - apollo
 - docker
 upforgrabs:
-  name: help wanted
-  link: https://github.com/mirumee/saleor/labels/help%20wanted
+  name: good first issue
+  link: https://github.com/saleor/saleor/labels/good%20first%20issue
 stats:
-  issue-count: 29
-  last-updated: '2019-09-30T13:21:29Z'
+  issue-count: 8
+  last-updated: '2026-09-23T10:47:00Z'
+  fork-count: 6201

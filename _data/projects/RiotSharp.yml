@@ -9,5 +9,6 @@ upforgrabs:
   name: up-for-grabs
   link: https://github.com/BenFradet/RiotSharp/labels/up-for-grabs
 stats:
-  issue-count: 15
-  last-updated: '2019-09-25T15:39:06Z'
+  issue-count: 9
+  last-updated: '2018-03-01T13:59:21Z'
+  fork-count: 140

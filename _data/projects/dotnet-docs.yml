@@ -1,13 +1,14 @@
 ---
 name: ".NET Docs"
 desc: Documentation for .NET
-site: http://github.com/dotnet/docs
+site: https://github.com/dotnet/docs
 tags:
 - ".net"
 - documentation
 upforgrabs:
-  name: up-for-grabs
-  link: https://github.com/dotnet/docs/labels/up-for-grabs
+  name: help wanted
+  link: https://github.com/dotnet/docs/labels/help%20wanted
 stats:
-  issue-count: 96
-  last-updated: '2019-09-30T12:42:08Z'
+  issue-count: 4
+  last-updated: '2026-11-12T14:11:29Z'
+  fork-count: 6085

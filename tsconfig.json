@@ -1,17 +1,17 @@
 {
-  "compilerOptions": {
-    "target": "es5",
-    "module": "commonjs",
-    "allowJs": true,
-    "checkJs": true,
-    "noEmit": true,
-    "strict": true,
-    "esModuleInterop": true
-  },
+  "extends": "astro/tsconfigs/strict",
   "include": [
-    "javascripts/*.js"
+    ".astro/types.d.ts",
+    "src"
   ],
   "exclude": [
+    "dist",
+    "javascripts/libs/*.js",
     "javascripts/libs/**/*.js"
-  ]
+  ],
+  "compilerOptions": {
+    "strictNullChecks": true,
+    "allowJs": true,
+    "jsx": "preserve"
+  }
 }

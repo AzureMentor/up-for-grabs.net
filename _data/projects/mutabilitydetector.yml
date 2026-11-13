@@ -1,7 +1,7 @@
 ---
 name: Mutability Detector
 desc: Lightweight analysis tool for detecting mutability in Java classes
-site: http://mutabilitydetector.org
+site: https://github.com/MutabilityDetector/MutabilityDetector
 tags:
 - java
 - immutability
@@ -11,5 +11,6 @@ upforgrabs:
   name: up-for-grabs
   link: https://github.com/MutabilityDetector/MutabilityDetector/labels/up-for-grabs
 stats:
-  issue-count: 5
-  last-updated: '2019-09-26T11:33:06Z'
+  issue-count: 6
+  last-updated: '2025-10-11T10:27:13Z'
+  fork-count: 80

@@ -11,5 +11,6 @@ upforgrabs:
   name: low hanging fruit
   link: https://github.com/opsdroid/opsdroid/labels/low%20hanging%20fruit
 stats:
-  issue-count: 3
-  last-updated: '2019-09-30T05:13:48Z'
+  issue-count: 4
+  last-updated: '2026-03-13T04:25:27Z'
+  fork-count: 431
